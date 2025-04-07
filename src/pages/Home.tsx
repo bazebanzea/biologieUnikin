@@ -7,7 +7,7 @@ export default function Home() {
       <div 
         className="relative h-[500px] bg-cover bg-center"
         style={{
-          backgroundImage: 'url("https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80")'
+         backgroundImage: 'url("https://www.unikin.ac.cd/wp-content/uploads/2022/03/fac-petrole.jpg")'
         }}
       >
         <div className="absolute inset-0 bg-black bg-opacity-50" />
